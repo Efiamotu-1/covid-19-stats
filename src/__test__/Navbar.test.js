@@ -6,17 +6,6 @@ import '@testing-library/jest-dom';
 
 describe('Navigation Bar test', () => {
 
-  // it('whats wrong now plaesa', () => {
-  //   const navbarComponent = render(
-  //    <React.StrictMode>
-  //   <BrowserRouter>
-  //     <Navbar />
-  //   </BrowserRouter>
-  //     </React.StrictMode>
-  //   );
-  //   expect(navbarComponent).toMatchSnapshot();
-  // });
- 
   it('renders an heading in the navbar', () => {
     render(
     <BrowserRouter>

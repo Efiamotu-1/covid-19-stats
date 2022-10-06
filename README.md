@@ -2,27 +2,28 @@
 
 # COVID-19 STATS
 
-> This web application provides statistical insights on COVID-19 cases around the world. The application allows users to filter through the information by different continents and countries..
+> This web application provides statistical insights on COVID-19 cases around the world. The application allows users to search for different countries and clicking a country would display all of the covid statistics for that country including its states, provinces and sub regions if available.
 
 ## Built With
 
 - React JS & Redux
 - CSS
 - JavaScript
+- Tailwindcss
 
 ## Live Demo
 |Netlify cloud hosting|
 |----------------------|
-|[View live demo](https://imaginative-liger-4aee95.netlify.app/)|
+|[View live demo]()|
 
 ## Demo Video link
 |Link to demo video|
 |----------------------|
-|[Demo video link](https://www.loom.com/share/f2894211121e4eadaf148854a0aec385/)|
+|[Demo video link]()|
 
 ## Application ScreenShot
-![Homepage](/public/images/app.png)
-![Country listing page](/public/images/app2.png)
+![Homepage]()
+![Country listing page]()
 
 ## Getting Started
 
@@ -81,7 +82,7 @@ $ http://localhost:3000
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Felix45/covid-stats/issues).
+Feel free to check the [issues page](https://github.com/Efiamotu-1/covid-stats/issues).
 
 ## Show your support
 
@@ -94,7 +95,7 @@ Give a ⭐️ if you like this project!
 
 - Special thanks to  [OpenStreetMap](https://www.openstreetmap.org/#map=0/59/-46) for the maps used in this project 
 
-- Special thanks to  [MMediaGroup.fr](https://mmediagroup.fr/covid-19) for the COVID statistics [API](https://covid-api.mmediagroup.fr/v1) used in this project
+- Special thanks to  [Axisbits](https://rapidapi.com/organization/axisbits) for the COVID statistics [API](https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/) used in this project
 
 - Special thanks to  [Rest countries](https://restcountries.com/v3/all) for the Population statistics [API](https://restcountries.com/v3/all) used in this project
 

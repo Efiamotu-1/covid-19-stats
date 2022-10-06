@@ -28,7 +28,7 @@ describe('Cases today test', () => {
     </BrowserRouter>
     );
     const headingElement = screen.getByRole("heading")
-    expect(headingElement).toBeInTheDocument();
+    expect(headingElement).toBeTruthy
   });
 
   it('renders an image', () => {
@@ -40,7 +40,7 @@ describe('Cases today test', () => {
     </BrowserRouter>
     );
     const imageElement = screen.getByRole("img")
-    expect(imageElement).toBeInTheDocument();
+    expect(imageElement).toBeTruthy()
   });
 
   it('renders covid data for the whole world', () => {
@@ -52,7 +52,7 @@ describe('Cases today test', () => {
     </BrowserRouter>
     );
     const textElement = screen.getByText(/covid data for the whole world/i)
-    expect(textElement).toBeInTheDocument()
+    expect(textElement).toBeTruthy()
   })
 
 
