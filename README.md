@@ -1,62 +1,84 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# COVID-19 STATS
 
-> Description the project.
-
+> This web application provides statistical insights on COVID-19 cases around the world. The application allows users to search for different countries and clicking a country would display all of the covid statistics for that country including its states, provinces and sub regions if available.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React JS & Redux
+- CSS
+- JavaScript
+- Tailwindcss
 
-## Live Demo (if available)
+## Live Demo
+|Netlify cloud hosting|
+|----------------------|
+|[View live demo]()|
 
-[Live Demo Link](https://livedemo.com)
-
+## Demo Video link
+|Link to demo video|
+|----------------------|
+|[Demo video link](https://www.loom.com/share/77314569f7184582ac586dd270db9491)|
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+```
+node js
+npm
 
+```
 ### Setup
+Clone the repository and change the directory to covid-stats
+
+``` 
+$ git clone git@github.com:Felix45/covid-stats.git
+
+$ cd covid-stats
+
+```
 
 ### Install
+Install all project dependencies by running the command below
+ 
+``` 
+$ npm install
+```
+
+### Tests
+To run all tests type the command below
+ 
+``` 
+$ npm test
+```
 
 ### Usage
+Start the http application server
+``` 
+$ npm start
+```
 
-### Run tests
+### Visit Application
+```
+$ http://localhost:3000
+```
 
-### Deployment
 
+### Authors
 
+| 👤 Name | Github | Twitter | LinkedIn |
+|------|--------|---------|----------|
+|Habeeb Efiamotu Musa Owolewa|[@Efiamotu-1](https://github.com/Efiamotu-1)|[@EFYAMOTU](https://twitter.com/EFYAMOTU)|[LinkedIn](https://www.linkedin.com/in/Musa-habeeb/)|
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Efiamotu-1/covid-stats/issues).
 
 ## Show your support
 
@@ -64,12 +86,15 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to [Microverse](https://bit.ly/MicroverseTN) for giving me this project to work on
+- Special thanks to  [Nelson Sakwa](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) for the design used in this project [behance.net](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
+
+- Special thanks to  [OpenStreetMap](https://www.openstreetmap.org/#map=0/59/-46) for the maps used in this project 
+
+- Special thanks to  [Axisbits](https://rapidapi.com/organization/axisbits) for the COVID statistics [API](https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/) used in this project
+
+- Special thanks to  [Rest countries](https://restcountries.com/v3/all) for the Population statistics [API](https://restcountries.com/v3/all) used in this project
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licensed.
