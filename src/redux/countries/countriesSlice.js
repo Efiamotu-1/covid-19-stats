@@ -18,12 +18,10 @@ const countries = {
 
 export const fetchCountries = createAsyncThunk('countries/fetchCountries', () => axios.request(countries).then((response) => {
   const stats = response.data.data;
-  // console.log(stats)
   const statData = Object.keys(response.data.data).map((id) => ({
     iso: stats[id].iso,
     name: stats[id].name,
   }));
-    // console.log(statData);
   return statData;
 }).catch((error) => error));
 

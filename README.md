@@ -19,11 +19,7 @@
 ## Demo Video link
 |Link to demo video|
 |----------------------|
-|[Demo video link]()|
-
-## Application ScreenShot
-![Homepage]()
-![Country listing page]()
+|[Demo video link](https://www.loom.com/share/7854fc10d2d048b08177b71a73e066fa)|
 
 ## Getting Started
 

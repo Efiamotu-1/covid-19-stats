@@ -25,7 +25,11 @@ const CasesToday = () => {
               Total Number of Covid Deaths as of
               {' '}
               {today}
+              {' '}
+
               :
+              {' '}
+
               {cases.deaths}
               {' '}
               ⚰️
@@ -34,7 +38,11 @@ const CasesToday = () => {
               Total Number of Confirmed 🧾 cases as of
               {' '}
               {today}
+              {' '}
+
               :
+              {' '}
+
               {cases.confirmed}
               {' '}
               👨‍👩‍👦
@@ -43,7 +51,11 @@ const CasesToday = () => {
               Total Number of Recoveries as of
               {' '}
               {today}
+              {' '}
+
               :
+              {' '}
+
               {cases.recovered}
               {' '}
               👨‍👩‍👦 ❤️‍🩹
@@ -52,7 +64,11 @@ const CasesToday = () => {
               Total Number of Covid active cases as of
               {' '}
               {today}
+              {' '}
+
               :
+              {' '}
+
               {cases.active}
               {' '}
               👨‍👩‍👦
@@ -61,7 +77,11 @@ const CasesToday = () => {
               Total Number of Covid fatality rate as of
               {' '}
               {today}
+              {' '}
+
               :
+              {' '}
+
               {cases.fatality_rate}
               %
             </div>
