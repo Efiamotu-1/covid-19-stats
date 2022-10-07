@@ -2,14 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-.abcd:not(:first-child) {
-  background-color: aqua;
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,400;0,700;0,900;1,100;1,300;1,900&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
 }
 
-.abcd:nth-child(even) {
-  background-color: blue;
-}
-
-.abcd:nth-child(odd) {
-  background-color: red;
+@media screen and (max-width: 480px) {
+  .abcd:nth-child(4n-1),
+  .abcd:nth-child(4n-2) {
+    background: #3865f8;
+  }
 }

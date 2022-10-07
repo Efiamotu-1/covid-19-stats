@@ -28,7 +28,7 @@ const Countries = (props) => {
       </div>
       <div className="flex-wrap my-5 grid grid-cols-2 md:grid-cols-3 bg-blue-900">
         {countryFilter.map((country, i) => (
-          <div className={i % 2 !== 1 ? '  bg-blue-700 cursor-pointer duration-150 hover:bg-gradient-to-r from-blue-500 to-blue-700 hover:scale-95 active:scale-95 active:bg-blue-800' : 'bg-blue-800 cursor-pointer duration-150 hover:bg-gradient-to-r from-blue-900 to-blue-500 hover:scale-95 active:scale-95 active:bg-blue-700'} onClick={() => navigate(`covid-info?iso=${country.iso}`)} key={country.name}>
+          <div className={i % 2 !== 1 ? 'abcd  md:bg-blue-700 cursor-pointer duration-150 hover:bg-gradient-to-r from-blue-500 to-blue-700 hover:scale-95 active:scale-95 active:bg-blue-800' : 'md:bg-blue-800 cursor-pointer duration-150 hover:bg-gradient-to-r from-blue-900 to-blue-500 hover:scale-95 active:scale-95 active:bg-blue-700 abcd'} onClick={() => navigate(`covid-info?iso=${country.iso}`)} key={country.name}>
             <div className="flex flex-col items-end items-between m-5 p-5">
               <div><FiArrowRightCircle /></div>
               {flag && flag.map((flag) => {

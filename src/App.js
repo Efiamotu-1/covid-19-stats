@@ -17,7 +17,7 @@ function App() {
     dispatch((fetchflags()));
   });
   return (
-    <div className="bg-blue-500 text-white">
+    <div className="bg-blue-500 text-white font-la">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />

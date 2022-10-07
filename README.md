@@ -14,7 +14,7 @@
 ## Live Demo
 |Netlify cloud hosting|
 |----------------------|
-|[View live demo]()|
+|[View live demo](https://covid19stattistics.netlify.app/)|
 
 ## Demo Video link
 |Link to demo video|
