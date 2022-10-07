@@ -19,7 +19,7 @@
 ## Demo Video link
 |Link to demo video|
 |----------------------|
-|[Demo video link](https://www.loom.com/share/77314569f7184582ac586dd270db9491)|
+|[Demo video link](https://www.loom.com/share/b601dc71361140ef8d739273efcfaae1)|
 
 ## Getting Started
 
