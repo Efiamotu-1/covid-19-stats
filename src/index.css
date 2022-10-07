@@ -8,7 +8,7 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 768px) {
   .abcd:nth-child(4n-1),
   .abcd:nth-child(4n-2) {
     background: #3865f8;
