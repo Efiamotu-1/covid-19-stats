@@ -35,9 +35,9 @@ npm
 Clone the repository and change the directory to covid-stats
 
 ``` 
-$ git clone git@github.com:Felix45/covid-stats.git
+$ git clone git@github.com:Efiamotu-1/covid-19-stats.git
 
-$ cd covid-stats
+$ cd covid-19-stats
 
 ```
 
