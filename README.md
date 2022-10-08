@@ -89,8 +89,6 @@ Give a ⭐️ if you like this project!
 - Hat tip to [Microverse](https://bit.ly/MicroverseTN) for giving me this project to work on
 - Special thanks to  [Nelson Sakwa](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) for the design used in this project [behance.net](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 
-- Special thanks to  [OpenStreetMap](https://www.openstreetmap.org/#map=0/59/-46) for the maps used in this project 
-
 - Special thanks to  [Axisbits](https://rapidapi.com/organization/axisbits) for the COVID statistics [API](https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/) used in this project
 
 - Special thanks to  [Rest countries](https://restcountries.com/v3/all) for the countries flag [API](https://restcountries.com/v3/all) used in this project
