@@ -93,7 +93,7 @@ Give a ⭐️ if you like this project!
 
 - Special thanks to  [Axisbits](https://rapidapi.com/organization/axisbits) for the COVID statistics [API](https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/) used in this project
 
-- Special thanks to  [Rest countries](https://restcountries.com/v3/all) for the Population statistics [API](https://restcountries.com/v3/all) used in this project
+- Special thanks to  [Rest countries](https://restcountries.com/v3/all) for the countries flag [API](https://restcountries.com/v3/all) used in this project
 
 ## 📝 License
 
